@@ -5,7 +5,7 @@ date:   2007-01-17
 categories: life
 ---
 
-<img src="/images/frankenballs.jpg" style="float: right; padding: 20px;">
+<img src="{{ site.url }}/assets/images/frankenballs.jpg" style="float: right; padding: 20px;">
 
 **I love my children but I don't want any more!**
 
