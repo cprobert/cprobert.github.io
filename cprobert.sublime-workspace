@@ -1,0 +1,456 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"view",
+				"viewpath"
+			],
+			[
+				"t",
+				"title	Attr"
+			],
+			[
+				"ta",
+				"target	Attr"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_posts/2005-08-01-new-zealand_north-island.md",
+			"settings":
+			{
+				"buffer_size": 25862,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/cprobert/Documents/GitHub/cprobert.github.io/_config.yml",
+		"/C/Users/cprobert/Documents/GitHub/cprobert.github.io/_includes/themes/twitter/page.html",
+		"/C/Users/cprobert/Documents/GitHub/cprobert.github.io/_includes/themes/twitter/post.html",
+		"/C/Users/cprobert/Documents/GitHub/cprobert.github.io/index.md",
+		"/C/Users/cprobert/Documents/GitHub/cprobert.github.io/posts.html",
+		"/C/Users/cprobert/Documents/GitHub/cprobert.github.io/categories.html",
+		"/C/Users/cprobert/Documents/GitHub/cprobert.github.io/404.html",
+		"/C/Users/cprobert/Documents/GitHub/cprobert.github.io/probert/index.md",
+		"/C/Users/cprobert/Documents/GitHub/cprobert.github.io/tags.html",
+		"/C/Users/cprobert/Documents/GitHub/cprobert.github.io/_includes/themes/twitter/default.html",
+		"/C/Users/cprobert/Documents/GitHub/cprobert.github.io/travel-2005/north.html",
+		"/C/Users/cprobert/Documents/GitHub/cprobert.github.io/travel-2005/index.html",
+		"/C/Users/cprobert/Documents/GitHub/cprobert.github.io/_includes/themes/the-minimum/default.html",
+		"/C/Users/cprobert/Documents/GitHub/cprobert.github.io/_posts/2013-12-22-the-world-is-as-you-dream-it.html",
+		"/C/Users/cprobert/Documents/GitHub/cprobert.github.io/_posts/2007-01-17-frankenballs.md",
+		"/C/Users/cprobert/Documents/GitHub/cprobert.github.io/_posts/2005-08-01-new-zealand_north-island.md",
+		"/C/Users/cprobert/Documents/GitHub/cprobert.github.io/archive.html",
+		"/C/Users/cprobert/Documents/GitHub/cprobert.github.io/.gitignore",
+		"/C/Users/cprobert/Dropbox/Shares/Spirit Of Boogie/www.spiritofboogie.com/_templates/nav.erb",
+		"/C/Users/cprobert/Dropbox/Shares/Spirit Of Boogie/www.spiritofboogie.com/_templates/new-skin.erb",
+		"/C/Users/cprobert/Dropbox/Shares/Spirit Of Boogie/www.spiritofboogie.com/_pages/videos/_config.yml",
+		"/C/Users/cprobert/Dropbox/Shares/Spirit Of Boogie/www.spiritofboogie.com/_pages/index/_config.yml",
+		"/C/Users/cprobert/Dropbox/Shares/Spirit Of Boogie/www.spiritofboogie.com/_pages/band/_config.yml",
+		"/C/Users/cprobert/Dropbox/Shares/Spirit Of Boogie/www.spiritofboogie.com/_views/home-head.html",
+		"/C/Users/cprobert/Dropbox/Shares/Spirit Of Boogie/www.spiritofboogie.com/_pages/index/main.erb",
+		"/C/Users/cprobert/Dropbox/Shares/Spirit Of Boogie/www.spiritofboogie.com/_templates/skin.html",
+		"/C/Users/cprobert/Dropbox/Shares/Spirit Of Boogie/www.spiritofboogie.com/_config.yml",
+		"/C/Users/cprobert/Dropbox/Code/qsonic.qsonic/build/rake-includes/tweet.rb",
+		"/C/Users/cprobert/Dropbox/Code/qsonic.qsonic/rakefile.rb",
+		"/C/Users/cprobert/Dropbox/Code/qsonic.qsonic/build/settings-yaml/ascend.yml",
+		"/C/Users/cprobert/Dropbox/Code/qsonic.qsonic/build/settings-yaml/ascend_staging.yml",
+		"/C/Users/cprobert/Dropbox/Code/qsonic.qsonic/build/settings-yaml/ascend_training.yml",
+		"/C/Users/cprobert/Dropbox/Code/qsonic.qsonic/build/settings-yaml/cpd-prn.yml",
+		"/C/Users/cprobert/Dropbox/Code/qsonic.qsonic/build/settings-yaml/csf.yml",
+		"/C/Users/cprobert/Dropbox/Code/qsonic.qsonic/build/settings-yaml/csf_staging.yml",
+		"/C/Users/cprobert/Dropbox/Code/qsonic.qsonic/build/settings-yaml/drexamination.yml",
+		"/C/Users/cprobert/Dropbox/Code/qsonic.qsonic/build/settings-yaml/drexamination_staging.yml",
+		"/C/Users/cprobert/Dropbox/Code/qsonic.qsonic/build/settings-yaml/ipassexam.yml",
+		"/C/Users/cprobert/Dropbox/Code/qsonic.qsonic/build/settings-yaml/ipassexam_staging.yml",
+		"/C/Users/cprobert/Dropbox/Code/qsonic.qsonic/build/settings-yaml/local-backup.yml",
+		"/C/Users/cprobert/Dropbox/Code/qsonic.qsonic/build/settings-yaml/local.template.yml",
+		"/C/Users/cprobert/Dropbox/Code/qsonic.qsonic/build/settings-yaml/local.yml",
+		"/C/Users/cprobert/Dropbox/Code/qsonic.qsonic/build/settings-yaml/localstaging.template.yml",
+		"/C/Users/cprobert/Dropbox/Code/qsonic.qsonic/build/settings-yaml/localstaging.yml",
+		"/C/Users/cprobert/Dropbox/Code/qsonic.qsonic/build/settings-yaml/medacademy.yml",
+		"/C/Users/cprobert/Dropbox/Code/qsonic.qsonic/build/settings-yaml/practice-nurse.yml",
+		"/C/Users/cprobert/Dropbox/Code/qsonic.qsonic/build/settings-yaml/prostrakan.yml",
+		"/C/Users/cprobert/Dropbox/Code/qsonic.qsonic/build/settings-yaml/setagc.yml",
+		"/C/Users/cprobert/Dropbox/Code/qsonic.qsonic/build/settings-yaml/setagc_staging.yml",
+		"/C/Users/cprobert/Dropbox/Code/qsonic.qsonic/build/settings-yaml/studyprn.yml",
+		"/C/Users/cprobert/Dropbox/Code/qsonic.qsonic/build/settings-yaml/studyprn_staging.yml",
+		"/C/Users/cprobert/Dropbox/Code/qsonic.qsonic/build/settings-yaml/test.yml",
+		"/C/Users/cprobert/Dropbox/Code/qsonic.qsonic/build/settings-yaml/you-could-police.yml",
+		"/C/Users/cprobert/Dropbox/Code/qsonic.qsonic/build/settings-yaml/youcanclinic.yml",
+		"/C/Users/cprobert/Dropbox/Code/qsonic.qsonic/build/config/app.erb.config",
+		"/C/Users/cprobert/Dropbox/Companies/iTutor Tech/itutor.cdn/_email-templates/_layouts/skin.erb.html",
+		"/C/Users/cprobert/Dropbox/Companies/iTutor Tech/itutor.cdn/_email-templates/_layouts/mailchimp.html",
+		"/C/Users/cprobert/Dropbox/Code/qsonic.qsonic/htdocs/Modules/Assessment/Handlers/AssessmentOverviewHandler.cs",
+		"/C/Users/cprobert/Dropbox/Code/qsonic.qsonic/build/migrations/032_AddStoreSystemTypes.cs",
+		"/C/Users/cprobert/Dropbox/Code/qsonic.qsonic/node_modules/grunt-contrib-concat/AUTHORS",
+		"/C/Users/cprobert/Dropbox/Code/qsonic.qsonic/build/crunch-n-copy/thirdparty.txt",
+		"/C/Users/cprobert/Dropbox/Code/qsonic.qsonic/product/app/DevDefined.OAuth/src/DevDefined.OAuth.Wcf/TokenPrincipal.cs",
+		"/C/Users/cprobert/Dropbox/Code/qsonic.qsonic/htdocs/Modules/Assessment/Handlers/AssessmentObjectiveHandler.cs",
+		"/C/Users/cprobert/Dropbox/Code/qsonic.qsonic/htdocs/Modules/Assessment/Domain/Model/AssessmentObjective.cs",
+		"/C/Users/cprobert/Dropbox/Code/qsonic.qsonic/htdocs/Modules/Assessment/Views/AssessmentOverview.aspx",
+		"/C/Users/cprobert/Dropbox/Code/qsonic.qsonic/htdocs/Modules/Assessment/Handlers/AssessmentReflectionHandler.cs",
+		"/C/Users/cprobert/Dropbox/Code/qsonic.qsonic/htdocs/Modules/Assessment/Handlers/AssessmentActivityHandler.cs",
+		"/C/Users/cprobert/Dropbox/Code/qsonic.qsonic/htdocs/Modules/Assessment/Domain/Model/AssessmentInteraction.cs",
+		"/C/Users/cprobert/Dropbox/Code/qsonic.qsonic/htdocs/Modules/Assessment/Domain/Events/AssessmentCompleted.cs",
+		"/C/Users/cprobert/Dropbox/Code/qsonic.qsonic/htdocs/Modules/Assessment/AssessmentSubjectAreaExtensions.cs",
+		"/C/Users/cprobert/Dropbox/Code/qsonic.qsonic/htdocs/Assets/Scripts/assessment.question.bun.min.js",
+		"/C/Users/cprobert/Dropbox/Code/qsonic.qsonic/htdocs/Modules/Assessment/Blocks/AssessmentsWidget.cs",
+		"/C/Users/cprobert/Dropbox/Code/qsonic.qsonic/htdocs/Modules/Assessment/Resources/AssessmentResource.cs",
+		"/C/Users/cprobert/Dropbox/Code/qsonic.qsonic/htdocs/Modules/Assessment/AssessmentKeyIdentifiers.cs",
+		"/C/Users/cprobert/Dropbox/Code/qsonic.qsonic/htdocs/Assets/Scripts/assessment.question.min.js",
+		"/C/Users/cprobert/Dropbox/Code/qsonic.qsonic/htdocs/Modules/Assessment/AssessmentModule.cs",
+		"/C/Users/cprobert/Dropbox/Code/qsonic.qsonic/htdocs/Modules/Assessment/AssessmentExtensions.cs",
+		"/C/Users/cprobert/Dropbox/Code/qsonic.qsonic/build/crunch-n-copy/asset-crunch.cmd",
+		"/C/Users/cprobert/Dropbox/Code/qsonic.qsonic/htdocs/Assets/Scripts/source/qs.assessment.question.js",
+		"/C/Users/Cookie/Dropbox/Code/qsonic.qsonic/htdocs/Bin/_PublishedWebsites/QSonic.Web.UI/Assets/Scripts/qs.assessment.question.js",
+		"/C/Users/Cookie/Dropbox/Code/qsonic.qsonic/product/app/QSonic/Domain/Model/IQuestionToQuestionMapper.cs",
+		"/C/Users/Cookie/Dropbox/Code/qsonic.qsonic/product/app/QSonic/Domain/Events/UserReviewedQuestion.cs",
+		"/C/Users/Cookie/Dropbox/Code/qsonic.qsonic/htdocs/Bin/_PublishedWebsites/QSonic.Web.UI/Modules/Assessment/Views/AssessmentQuestionAttempts.aspx",
+		"/C/Users/Cookie/Dropbox/Code/qsonic.qsonic/build/migrations/041_AddIgnoreQuestionFeedbackFlag.cs",
+		"/C/Users/Cookie/Dropbox/Code/qsonic.qsonic/build/migrations/025_AddViewQuestionAttemptsByUserResource.cs",
+		"/C/Users/Cookie/Dropbox/Code/qsonic.qsonic/product/app/QSonic/Reporting/Queries/IQuestionCategoryFinder.cs",
+		"/C/Users/Cookie/Dropbox/Code/qsonic.qsonic/product/app/QSonic/Application/Service/Contracts/IQuestionService.cs",
+		"/C/Users/Cookie/Dropbox/Code/qsonic.qsonic/htdocs/Modules/Questions/MultiChoiceQuestion.ascx.designer.cs",
+		"/C/Users/Cookie/Dropbox/Code/qsonic.qsonic/htdocs/Assets/Scripts/modules/qs.assessment.questionanalysis.js",
+		"/C/Users/Cookie/Dropbox/Code/qsonic.qsonic/htdocs/Assets/Scripts/admin/qs.admin.questionfeedback.js",
+		"/C/Users/Cookie/Dropbox/Code/qsonic.qsonic/product/app/QSonic/Reporting/Queries/IQuestionFinder.cs",
+		"/C/Users/Cookie/Dropbox/Code/qsonic.qsonic/product/app/QSonic/Domain/Repositories/IQuestionRepository.cs",
+		"/C/Users/Cookie/Dropbox/Code/qsonic.qsonic/product/app/QSonic/Domain/Model/IQuestionSchema.cs",
+		"/C/Users/Cookie/Dropbox/Code/qsonic.qsonic/product/app/QSonic/Domain/Model/IQuestionOption.cs",
+		"/C/Users/Cookie/Dropbox/Code/qsonic.qsonic/product/app/QSonic/Domain/Model/IQuestionFactory.cs",
+		"/C/Users/Cookie/Dropbox/Code/qsonic.qsonic/htdocs/Bin/_PublishedWebsites/QSonic.Web.UI/Assets/Scripts/assessment.question.bun.min.js",
+		"/C/Users/Cookie/Dropbox/Code/qsonic.qsonic/htdocs/Assets/Scripts/source/qs.assessment.question.js",
+		"/C/Users/Cookie/Dropbox/Code/qsonic.qsonic/htdocs/Modules/Questions/MultiChoiceQuestion.ascx.cs",
+		"/C/Users/Cookie/Dropbox/Code/qsonic.qsonic/htdocs/Modules/Assessment/Views/AssessmentQuestionAttemptMTF.ascx",
+		"/C/Users/Cookie/Dropbox/Code/qsonic.qsonic/htdocs/Modules/Assessment/Views/AssessmentQuestionAttemptMCQ.ascx",
+		"/C/Users/Cookie/Dropbox/Code/qsonic.qsonic/product/app/QSonic/Domain/Model/IQuestion.cs",
+		"/C/Users/Cookie/Dropbox/Code/qsonic.qsonic/htdocs/Bin/_PublishedWebsites/QSonic.Web.UI/Assets/Scripts/assessment.question.min.js",
+		"/C/Users/Cookie/Dropbox/Code/qsonic.qsonic/htdocs/Modules/Questions/TrueFalseQuestion.ascx.designer.cs",
+		"/C/Users/Cookie/Dropbox/Code/qsonic.qsonic/htdocs/Modules/Questions/MultiChoiceQuestion.ascx",
+		"/C/Users/Cookie/Dropbox/Code/qsonic.qsonic/htdocs/Modules/Assessment/Views/AssessmentQuestionAttempts.aspx",
+		"/C/Users/Cookie/Dropbox/Code/qsonic.qsonic/htdocs/Modules/Assessment/Reporting/Queries/PublishedQuestionFinder.cs",
+		"/C/Users/Cookie/Dropbox/Code/qsonic.qsonic/htdocs/Modules/Assessment/Reporting/Model/AssessmentQuestion.cs",
+		"/C/Users/Cookie/Dropbox/Code/qsonic.qsonic/htdocs/Modules/Questions/TrueFalseQuestion.ascx.cs",
+		"/C/Users/Cookie/Dropbox/Code/qsonic.qsonic/htdocs/Modules/Assessment/Domain/Policies/ArchiveQuestionFeedbackPolicy.cs",
+		"/C/Users/Cookie/Dropbox/Code/qsonic.qsonic/htdocs/Assets/Scripts/assessment.question.bun.min.js",
+		"/C/Users/Cookie/Dropbox/Code/qsonic.qsonic/htdocs/Modules/Assessment/Commands/ReplicateQuestions.cs",
+		"/C/Users/Cookie/Dropbox/Code/qsonic.qsonic/product/app/QSonic/Domain/Policies/AddingQuestionOptionsPolicy.cs",
+		"/C/Users/Cookie/Dropbox/Code/qsonic.qsonic/htdocs/Modules/Questions/TrueFalseQuestion.ascx",
+		"/C/Users/Cookie/Dropbox/Code/qsonic.qsonic/htdocs/Assets/Scripts/assessment.question.min.js",
+		"/C/Users/Cookie/Dropbox/Code/qsonic.qsonic/product/test/Specs/LMS/ManagingQuestions/describe_Replicating_Questions.cs",
+		"/C/Users/Cookie/Dropbox/Code/qsonic.qsonic/product/test/Specs/LMS/AttemptingQuestions/describe_Reviewing_Questions.cs",
+		"/C/Users/Cookie/Dropbox/Code/qsonic.qsonic/htdocs/Modules/Assessment/Commands/ArchiveQuestionFeedback.cs",
+		"/C/Users/Cookie/Dropbox/Code/qsonic.qsonic/htdocs/Modules/Assessment/Commands/AdvanceQuestionAttempt.cs",
+		"/C/Users/Cookie/Dropbox/Code/qsonic.qsonic/htdocs/Modules/Assessment/Handlers/ReviewQuestionHandler.cs",
+		"/C/Users/Cookie/Dropbox/Code/qsonic.qsonic/htdocs/Modules/Assessment/Commands/SubmitQuestionFeedback.cs",
+		"/C/Users/Cookie/Dropbox/Code/qsonic.qsonic/build/migrations/004_AddQuestionTableDescriptors.cs",
+		"/C/Users/Cookie/Dropbox/Code/qsonic.qsonic/docs/Useful SQL/Question Quality/Search Questions.sql",
+		"/C/Users/Cookie/Dropbox/Code/qsonic.qsonic/htdocs/Modules/Assessment/Commands/UpdateQuestion.cs",
+		"/C/Users/Cookie/Dropbox/Code/qsonic.qsonic/htdocs/Bin/_PublishedWebsites/QSonic.Web.UI/Modules/Assessment/Views/QuestionKeyboardShortcutsMultiBlock.html",
+		"/C/Users/Cookie/Dropbox/Code/qsonic.qsonic/build/migrations/066_AddQuestionVoting.cs",
+		"/C/Users/Cookie/Dropbox/Code/qsonic.qsonic/build/migrations/038_AddQuestionFeedback.cs",
+		"/C/Users/Cookie/Dropbox/Code/qsonic.qsonic/build/migrations/003_AddQuestionTables.cs",
+		"/C/Users/Cookie/Dropbox/Code/qsonic.qsonic/docs/Useful SQL/Remove Questions.sql"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"C:\\Users\\Cookie\\Dropbox\\Code\\qsonic.qsonic",
+			"C:\\Users\\Cookie\\Documents\\GitHub\\Static-CMS",
+			"C:\\Users\\Cookie\\Documents\\GitHub\\Static-CMS\\assets",
+			"C:\\Users\\Cookie\\Documents\\GitHub\\Static-CMS"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<br>",
+			"</p>",
+			"<p>",
+			"&nbsp; ",
+			"’",
+			"”",
+			"“",
+			"‘",
+			"’",
+			"</p>",
+			"<p>",
+			"</p>",
+			"<p>",
+			"scripts.js ",
+			"new-skin.erb",
+			"page.",
+			"JSON",
+			"tweet",
+			"LiveReload",
+			"introheading",
+			"libs",
+			"bindKeybordShortcuts",
+			"qs.assessment.question.js",
+			"bindKeybordShortcuts",
+			"qs.assessment.question.js",
+			"console",
+			"cart_top",
+			"Assets/StyleSheets/base.min.css",
+			".ask",
+			"ProductListItem",
+			"resp",
+			"getLinkNameFor",
+			"qs.lib.notifier.js",
+			"jquery.markitup.settings.js",
+			"qs.admin.navigation.js",
+			"asm",
+			"$sel",
+			"sel",
+			"getMetaModel",
+			"page",
+			"getNavModel",
+			"nav",
+			"markup",
+			"getSettings",
+			"getSettingsViews",
+			"savePage",
+			"ScmsUtils",
+			"inspest",
+			"renderView",
+			"inspest",
+			"renderView",
+			"Scms",
+			"Valid Template Keys are",
+			"$$sideshade",
+			"lightshade",
+			"$primary-light",
+			"$primary-highlight",
+			"#f7f5fa",
+			"hignlight",
+			"highlight",
+			"#463265",
+			"getView",
+			"getViewModel",
+			"savePage",
+			"puts",
+			"renderView",
+			"@conn1",
+			".encode('UTF-8'",
+			"encode",
+			"pageOptions",
+			"resource",
+			"PageOptions",
+			"reload"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" ",
+			"'",
+			"\"",
+			"'",
+			"",
+			"meta",
+			"$sideshade",
+			"$lightshade",
+			"$midshade",
+			"$shade",
+			"highlight",
+			"$primary-hignlight"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_posts/2005-08-01-new-zealand_north-island.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 25862,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2982,
+								2982
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 45.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "cprobert.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"asses",
+				"htdocs\\Modules\\Assessment\\Handlers\\AssessmentOverviewHandler.cs"
+			],
+			[
+				"assessmentobj",
+				"htdocs\\Modules\\Assessment\\Handlers\\AssessmentObjectiveHandler.cs"
+			],
+			[
+				"assessment",
+				"htdocs\\Modules\\Assessment\\Handlers\\AssessmentOverviewHandler.cs"
+			],
+			[
+				"qs.assessment.question.js",
+				"htdocs\\Assets\\Scripts\\source\\qs.assessment.question.js"
+			],
+			[
+				"question",
+				"htdocs\\Bin\\_PublishedWebsites\\QSonic.Web.UI\\Assets\\Scripts\\qs.assessment.question.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\cprobert\\Dropbox\\Shares\\Gaynor Probert\\gaynor.probert.me.uk\\gaynor.sublime-project"
+			],
+			[
+				"nan",
+				"C:\\Users\\Cookie\\Dropbox\\Shares\\Nant-y-cwm\\nant-y-cwm.co.uk\\nant-y-cwm.sublime-project"
+			],
+			[
+				"n",
+				"C:\\Users\\Cookie\\Dropbox\\Shares\\Nant-y-cwm\\nant-y-cwm.co.uk\\nant-y-cwm.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 285.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
