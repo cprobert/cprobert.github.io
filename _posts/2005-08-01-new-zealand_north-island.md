@@ -6,7 +6,7 @@ tagline: "Diary of the Probert family travels"
 tags: [me, travel]
 categories: [travel]
 ---
-<script src="http://jwpsrv.com/library/07eIJNt_EeOQ2iIACi0I_Q.js"></script>
+<script src="https://jwpsrv.com/library/07eIJNt_EeOQ2iIACi0I_Q.js"></script>
 
 
 Well it's been 2 week already!  And we have driven all over the north Island.  Well we did what we could in the time we had.  There was so much to do and see that we resigned ourselves to the fact that we were going to have to make pragmatic choices of what we could realistically fit in.
