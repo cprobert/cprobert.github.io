@@ -16,7 +16,7 @@ We started in Auckland ("The City of Sails" as they like to call it).  This is t
 <div id='player6yaIsu8R' style="padding: 20px;"></div>
 <script type='text/javascript'>
     jwplayer('player6yaIsu8R').setup({
-        playlist: 'http://jwpsrv.com/feed/6yaIsu8R.rss',
+        playlist: 'https://jwpsrv.com/feed/6yaIsu8R.rss',
         width: '100%',
         aspectratio: '16:9'
     });
