@@ -47,3 +47,17 @@ As the Welsh National anthem goes: "Hen Wlad Fy Nhadau", this is translated as "
 None of the above has given me a solid understanding of Welshness.  Perhaps this is a good thing, if I cant define the differences in rational logical thinking then there is also no genuine reason for anyone to single us out - so thats a good thing.  So it logically follows that I also have no good reason to be Proud to be Welsh, to love my country - but I do!!!
 
 Go figure :)
+
+-----
+
+**Update**
+
+After posting this I had some feedback on Facebook.  One was from a Welsh speaking American who now lives here.  Her comment was:
+
+ > I'd like to point out that linking 'Welshness' purely with genetic ties does mean that immigrants can never be Welsh - and perhaps by extension that would mean that immigrants can't be British, American, or other?
+
+ The other:
+
+  > I wasn't born in Wales, but I have a Welsh mother. As a child, I was always told I was half Welsh and it was a part of my identity growing up. And I rowed for Wales as an adult. I'm definitely Welsh even though I lived the first 33 years of my life outside Wales.
+
+They are of course both correct, so my conclusion is: being Welsh is believing your Welsh - feeling you have an affinity with Wales - a connection with the land and its people. Any other definition is either discriminatory or panders to stereotypes.
