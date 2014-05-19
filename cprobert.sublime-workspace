@@ -27,16 +27,16 @@
 			"file": "_config.yml",
 			"settings":
 			{
-				"buffer_size": 4053,
+				"buffer_size": 4058,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "CNAME",
+			"file": "_includes/themes/bootstrap/default.html",
 			"settings":
 			{
-				"buffer_size": 23,
-				"line_ending": "Windows"
+				"buffer_size": 2482,
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -67,13 +67,14 @@
 	},
 	"file_history":
 	[
+		"/C/Users/cprobert/Documents/GitHub/cprobert.github.io/sitemap.xml",
+		"/C/Users/cprobert/Documents/GitHub/cprobert.github.io/_config.yml",
 		"/C/Users/cprobert/Documents/GitHub/cprobert.github.io/CMAME",
 		"/C/Users/cprobert/Documents/GitHub/cprobert.github.io/.gitignore",
 		"/C/Users/cprobert/Documents/GitHub/cprobert.github.io/_posts/2014-05-16-proud-to-be-welsh.md",
 		"/C/Users/cprobert/Documents/GitHub/cprobert.github.io/_posts/2005-08-01-new-zealand_north-island.md",
 		"/C/Users/cprobert/Documents/GitHub/cprobert.github.io/_posts/2013-12-22-the-world-is-as-you-dream-it.html",
 		"/C/Users/cprobert/Documents/GitHub/cprobert.github.io/crossdomain.xml",
-		"/C/Users/cprobert/Documents/GitHub/cprobert.github.io/_config.yml",
 		"/C/Users/cprobert/Documents/GitHub/cprobert.github.io/_includes/themes/twitter/page.html",
 		"/C/Users/cprobert/Documents/GitHub/cprobert.github.io/_includes/themes/twitter/post.html",
 		"/C/Users/cprobert/Documents/GitHub/cprobert.github.io/index.md",
@@ -193,8 +194,7 @@
 		"/C/Users/Cookie/Dropbox/Code/qsonic.qsonic/build/migrations/004_AddQuestionTableDescriptors.cs",
 		"/C/Users/Cookie/Dropbox/Code/qsonic.qsonic/docs/Useful SQL/Question Quality/Search Questions.sql",
 		"/C/Users/Cookie/Dropbox/Code/qsonic.qsonic/htdocs/Modules/Assessment/Commands/UpdateQuestion.cs",
-		"/C/Users/Cookie/Dropbox/Code/qsonic.qsonic/htdocs/Bin/_PublishedWebsites/QSonic.Web.UI/Modules/Assessment/Views/QuestionKeyboardShortcutsMultiBlock.html",
-		"/C/Users/Cookie/Dropbox/Code/qsonic.qsonic/build/migrations/066_AddQuestionVoting.cs"
+		"/C/Users/Cookie/Dropbox/Code/qsonic.qsonic/htdocs/Bin/_PublishedWebsites/QSonic.Web.UI/Modules/Assessment/Views/QuestionKeyboardShortcutsMultiBlock.html"
 	],
 	"find":
 	{
@@ -327,15 +327,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4053,
+						"buffer_size": 4058,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3210,
-								3210
+								3317,
+								3317
 							]
 						],
 						"settings":
@@ -344,8 +344,8 @@
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
-						"translation.x": 0.0,
-						"translation.y": 1080.0,
+						"translation.x": -0.0,
+						"translation.y": 1170.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -353,27 +353,29 @@
 				},
 				{
 					"buffer": 1,
-					"file": "CNAME",
-					"semi_transient": true,
+					"file": "_includes/themes/bootstrap/default.html",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 23,
+						"buffer_size": 2482,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								23,
-								23
+								1855,
+								1855
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 180.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -420,7 +422,7 @@
 	"project": "cprobert.sublime-project",
 	"replace":
 	{
-		"height": 62.0
+		"height": 806.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -458,7 +460,7 @@
 		[
 			[
 				"",
-				"C:\\Users\\cprobert\\Dropbox\\Shares\\Swanlove\\swan-love.github.io\\swan-love.sublime-project"
+				"C:\\Users\\cprobert\\Dropbox\\Code\\qsonic.qsonic\\qsonic.sublime-project"
 			],
 			[
 				"nan",
