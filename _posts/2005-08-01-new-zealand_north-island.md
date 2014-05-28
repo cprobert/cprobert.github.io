@@ -2,9 +2,10 @@
 layout: post
 title:  "New Zealand - North Island"
 date:   2005-08-01
-tagline: "Diary of the Probert family travels"
+tagline: "diary of the Probert family travels"
 tags: [me, travel]
 categories: [travel]
+image: posts/nz.jpg
 ---
 <script src="https://jwpsrv.com/library/07eIJNt_EeOQ2iIACi0I_Q.js"></script>
 

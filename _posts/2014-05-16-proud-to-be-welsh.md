@@ -5,6 +5,7 @@ date:   2014-05-16
 tagline: "or am I?"
 category: philosophy
 tags: [life, travel, philosophy]
+image: posts/st-davids.jpg
 ---
 {% include JB/setup %}
 

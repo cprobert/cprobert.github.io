@@ -5,6 +5,7 @@ date:   2007-01-17
 tagline: "shaved, swollen, bruised, hopefull"
 tags: [me, lifestyle]
 categories: [choices]
+image: posts/ooo.jpg
 ---
 
 <img src="{{ site.url }}/assets/images/posts/frankenballs.jpg" style="float: right; padding: 20px;">
