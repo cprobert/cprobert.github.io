@@ -33,7 +33,7 @@ Unfortunately I had no response, my email went into a blackhole.  So I thought I
 >
 > This is a serious issue that I've written to you about and was ignored.  It would be a hassle to move my account from you but after seeing my FTP password sent to me in an email I'm motivated to do so.
 >
-> Please pass this on to someone who is empowered to do something about it.  Then have a very serious chat with the developer who wrote code.  In a day and age when even out own governments are snooping on us it is vital that security best practices are adhered to.
+> Please pass this on to someone who is empowered to do something about it.  Then have a very serious chat with the developer who wrote code.  In a day and age when even our own governments are snooping on us it is vital that security best practices are adhered to.
 >
 >
 > Best regards
