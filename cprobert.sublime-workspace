@@ -28,10 +28,18 @@
 	"buffers":
 	[
 		{
-			"file": "_config.yml",
+			"file": "_includes/themes/bootply/default.html",
 			"settings":
 			{
-				"buffer_size": 4201,
+				"buffer_size": 4013,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_includes/themes/bootply/post.html",
+			"settings":
+			{
+				"buffer_size": 2287,
 				"line_ending": "Unix"
 			}
 		}
@@ -63,6 +71,7 @@
 	},
 	"file_history":
 	[
+		"/C/Users/cprobert/Documents/GitHub/cprobert.github.io/_config.yml",
 		"/C/Users/cprobert/Documents/GitHub/cprobert.github.io/_includes/custom/categories_list",
 		"/C/Users/cprobert/Documents/GitHub/cprobert.github.io/_includes/custom/tags_list",
 		"/C/Users/cprobert/Documents/GitHub/cprobert.github.io/_includes/custom/posts_collate",
@@ -84,7 +93,6 @@
 		"/C/Users/cprobert/Documents/GitHub/cprobert.github.io/_includes/themes/bootply/settings.yml",
 		"/C/Users/cprobert/Documents/GitHub/cprobert.github.io/_includes/JB/tags_list",
 		"/C/Users/cprobert/Documents/GitHub/cprobert.github.io/_includes/JB/categories_list",
-		"/C/Users/cprobert/Documents/GitHub/cprobert.github.io/_config.yml",
 		"/C/Users/cprobert/Documents/GitHub/cprobert.github.io/_includes/themes/bootstrap/default.html",
 		"/C/Users/cprobert/Documents/GitHub/cprobert.github.io/sitemap.xml",
 		"/C/Users/cprobert/Documents/GitHub/cprobert.github.io/CMAME",
@@ -321,32 +329,62 @@
 			[
 				{
 					"buffer": 0,
-					"file": "_config.yml",
+					"file": "_includes/themes/bootply/default.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4201,
+						"buffer_size": 4013,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3422,
-								3422
+								2732,
+								2732
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/YAML/YAML.tmLanguage",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
-						"translation.x": -0.0,
-						"translation.y": 1305.0,
+						"translation.x": 0.0,
+						"translation.y": 540.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_includes/themes/bootply/post.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2287,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								721,
+								721
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 45.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
