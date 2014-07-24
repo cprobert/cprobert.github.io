@@ -12,3 +12,5 @@ Thumbs.db
 cprobert.sublime-project
 cprobert.sublime-workspace
 
+
+*.sublime-workspace
