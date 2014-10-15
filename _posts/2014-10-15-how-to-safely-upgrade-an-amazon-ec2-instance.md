@@ -29,6 +29,7 @@ The first part is easy
 What I always forget is to make sure any IIS nodes mapped to the old internal IP are remapped to the new internal IP.  
 
 If your using RDS, don't forget to change the Security Group to allow access from the new instance internal IP.
+
 Don’t forget all data on ethereal drives will be lost.  So if you store data on this way, copy to EBS storage for the upgrade.
 Fingers crossed next upgrade will be smother than my last :)
 
