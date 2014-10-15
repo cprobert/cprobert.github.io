@@ -93,11 +93,9 @@ JB :
   #        
   analytics :
     provider : googleUA 
-    google : 
-        tracking_id : 'UA-240970-7'
     googleUA :
-        tracking_id : 'UA-240970-7'
-        property_name : 'courtenay.probert.me.uk'
+      tracking_id : 'UA-240970-7'
+      property_name : 'courtenay.probert.me.uk'
 
   # Settings for sharing helper. 
   # Sharing is for things like tweet, plusone, like, reddit buttons etc.

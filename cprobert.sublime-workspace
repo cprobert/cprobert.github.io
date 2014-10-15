@@ -27,22 +27,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "_includes/themes/bootply/default.html",
-			"settings":
-			{
-				"buffer_size": 4013,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_includes/themes/bootply/post.html",
-			"settings":
-			{
-				"buffer_size": 2287,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -71,7 +55,12 @@
 	},
 	"file_history":
 	[
+		"/C/Users/cprobert/Documents/GitHub/cprobert.github.io/_includes/JB/analytics-providers/googleUA",
 		"/C/Users/cprobert/Documents/GitHub/cprobert.github.io/_config.yml",
+		"/C/Users/cprobert/Documents/GitHub/cprobert.github.io/Rakefile",
+		"/C/Users/cprobert/Documents/GitHub/cprobert.github.io/_includes/themes/bootply/post.html",
+		"/C/Users/cprobert/Documents/GitHub/cprobert.github.io/_includes/themes/bootply/default.html",
+		"/C/Users/cprobert/Documents/GitHub/cprobert.github.io/_posts/2014-05-29-open-letter-to-easyspace.md",
 		"/C/Users/cprobert/Documents/GitHub/cprobert.github.io/_includes/custom/categories_list",
 		"/C/Users/cprobert/Documents/GitHub/cprobert.github.io/_includes/custom/tags_list",
 		"/C/Users/cprobert/Documents/GitHub/cprobert.github.io/_includes/custom/posts_collate",
@@ -87,8 +76,6 @@
 		"/C/Users/cprobert/Documents/GitHub/cprobert.github.io/_posts/2013-12-22-the-world-is-as-you-dream-it.html",
 		"/C/Users/cprobert/Documents/GitHub/cprobert.github.io/_posts/2005-08-01-new-zealand_north-island.md",
 		"/C/Users/cprobert/Documents/GitHub/cprobert.github.io/_posts/2007-01-17-frankenballs.md",
-		"/C/Users/cprobert/Documents/GitHub/cprobert.github.io/_includes/themes/bootply/default.html",
-		"/C/Users/cprobert/Documents/GitHub/cprobert.github.io/_includes/themes/bootply/post.html",
 		"/C/Users/cprobert/Documents/GitHub/cprobert.github.io/_includes/header.html",
 		"/C/Users/cprobert/Documents/GitHub/cprobert.github.io/_includes/themes/bootply/settings.yml",
 		"/C/Users/cprobert/Documents/GitHub/cprobert.github.io/_includes/JB/tags_list",
@@ -195,10 +182,7 @@
 		"/C/Users/Cookie/Dropbox/Code/qsonic.qsonic/htdocs/Modules/Questions/MultiChoiceQuestion.ascx",
 		"/C/Users/Cookie/Dropbox/Code/qsonic.qsonic/htdocs/Modules/Assessment/Views/AssessmentQuestionAttempts.aspx",
 		"/C/Users/Cookie/Dropbox/Code/qsonic.qsonic/htdocs/Modules/Assessment/Reporting/Queries/PublishedQuestionFinder.cs",
-		"/C/Users/Cookie/Dropbox/Code/qsonic.qsonic/htdocs/Modules/Assessment/Reporting/Model/AssessmentQuestion.cs",
-		"/C/Users/Cookie/Dropbox/Code/qsonic.qsonic/htdocs/Modules/Questions/TrueFalseQuestion.ascx.cs",
-		"/C/Users/Cookie/Dropbox/Code/qsonic.qsonic/htdocs/Modules/Assessment/Domain/Policies/ArchiveQuestionFeedbackPolicy.cs",
-		"/C/Users/Cookie/Dropbox/Code/qsonic.qsonic/htdocs/Assets/Scripts/assessment.question.bun.min.js"
+		"/C/Users/Cookie/Dropbox/Code/qsonic.qsonic/htdocs/Modules/Assessment/Reporting/Model/AssessmentQuestion.cs"
 	],
 	"find":
 	{
@@ -324,69 +308,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "_includes/themes/bootply/default.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 4013,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2732,
-								2732
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 540.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "_includes/themes/bootply/post.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2287,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								721,
-								721
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 45.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -466,7 +389,7 @@
 		[
 			[
 				"",
-				"C:\\Users\\cprobert\\Dropbox\\Shares\\Gaynor Probert\\gaynor.probert.me.uk\\gaynor.sublime-project"
+				"C:\\Users\\cprobert\\Dropbox\\Code\\ipass-ace-exam.github.io\\ipass-ace-exam.sublime-project"
 			],
 			[
 				"nan",
