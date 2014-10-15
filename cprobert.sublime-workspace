@@ -53,14 +53,20 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/C/Users/cprobert/Documents/GitHub/cprobert.github.io",
+		"/C/Users/cprobert/Documents/GitHub/cprobert.github.io/_posts"
+	],
 	"file_history":
 	[
+		"/C/Users/cprobert/Documents/GitHub/cprobert.github.io/_posts/2014-10-15-how-to-safely-upgrade-an-amazon-ec2-instance.md",
+		"/C/Users/cprobert/Documents/GitHub/cprobert.github.io/_posts/2014-05-29-open-letter-to-easyspace.md",
 		"/C/Users/cprobert/Documents/GitHub/cprobert.github.io/_includes/JB/analytics-providers/googleUA",
 		"/C/Users/cprobert/Documents/GitHub/cprobert.github.io/_config.yml",
 		"/C/Users/cprobert/Documents/GitHub/cprobert.github.io/Rakefile",
 		"/C/Users/cprobert/Documents/GitHub/cprobert.github.io/_includes/themes/bootply/post.html",
 		"/C/Users/cprobert/Documents/GitHub/cprobert.github.io/_includes/themes/bootply/default.html",
-		"/C/Users/cprobert/Documents/GitHub/cprobert.github.io/_posts/2014-05-29-open-letter-to-easyspace.md",
 		"/C/Users/cprobert/Documents/GitHub/cprobert.github.io/_includes/custom/categories_list",
 		"/C/Users/cprobert/Documents/GitHub/cprobert.github.io/_includes/custom/tags_list",
 		"/C/Users/cprobert/Documents/GitHub/cprobert.github.io/_includes/custom/posts_collate",
@@ -181,8 +187,7 @@
 		"/C/Users/Cookie/Dropbox/Code/qsonic.qsonic/htdocs/Modules/Questions/TrueFalseQuestion.ascx.designer.cs",
 		"/C/Users/Cookie/Dropbox/Code/qsonic.qsonic/htdocs/Modules/Questions/MultiChoiceQuestion.ascx",
 		"/C/Users/Cookie/Dropbox/Code/qsonic.qsonic/htdocs/Modules/Assessment/Views/AssessmentQuestionAttempts.aspx",
-		"/C/Users/Cookie/Dropbox/Code/qsonic.qsonic/htdocs/Modules/Assessment/Reporting/Queries/PublishedQuestionFinder.cs",
-		"/C/Users/Cookie/Dropbox/Code/qsonic.qsonic/htdocs/Modules/Assessment/Reporting/Model/AssessmentQuestion.cs"
+		"/C/Users/Cookie/Dropbox/Code/qsonic.qsonic/htdocs/Modules/Assessment/Reporting/Queries/PublishedQuestionFinder.cs"
 	],
 	"find":
 	{
@@ -410,6 +415,7 @@
 		],
 		"width": 0.0
 	},
+	"selected_group": 0,
 	"settings":
 	{
 	},
@@ -417,7 +423,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 285.0,
+	"side_bar_width": 268.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

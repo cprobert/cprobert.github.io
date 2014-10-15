@@ -4,7 +4,7 @@ title: "How to safely upgrade an Amazon EC2 instance"
 tagline: "A note to future me"
 date: 2014-10-15
 category: sysadmin
-tags: [AWS]
+tags: [aws, sysadmin]
 image: posts/ooo.jpg
 ---
 {% include JB/setup %}

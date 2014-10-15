@@ -4,7 +4,7 @@ title: "Open Letter to Easyspace"
 tagline: "buyer beware"
 date:   2014-05-29
 category: openletter
-tags: [complaint]
+tags: [complaint, sysadmin]
 image: posts/unlocked.jpg
 ---
 {% include JB/setup %}
