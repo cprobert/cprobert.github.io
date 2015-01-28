@@ -5,7 +5,7 @@ tagline: "Stick your Tory bribe up your arse"
 date: 2015-01-28
 category: politics
 tags: [politics, philosophy, social]
-image: posts/an-email-from-david-cameron.png
+image: posts/an-email-from-david-cameron-v2.png
 ---
 {% include JB/setup %}
 
