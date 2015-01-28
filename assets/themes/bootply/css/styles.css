@@ -140,3 +140,12 @@ a,a:hover {
 .carousel-caption a {
     color: #FFF;
 }
+
+.carousel-caption {
+  background-color: rgba(0,0,0,0.4);
+  border-radius: 5px;
+  max-width: 400px;
+  padding: 20px;
+  margin: 20px auto;
+  width: 300px;
+}

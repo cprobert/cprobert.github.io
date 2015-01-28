@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "An email from David Cameron"
-tagline: "Stick your Tory bribe up your arse"
+tagline: "A blatant tory bribe"
 date: 2015-01-28
 category: politics
 tags: [politics, philosophy, social]
