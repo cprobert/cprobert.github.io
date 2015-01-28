@@ -27,15 +27,35 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "_posts/2015-01-28-an-email-from-david-cameron.md",
+			"settings":
+			{
+				"buffer_size": 3833,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "_posts/2014-05-27-the-needs-of-the-many.md",
+			"settings":
+			{
+				"buffer_size": 5226,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 392.0,
+		"height": 81.0,
 		"selected_items":
 		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
 		],
-		"width": 416.0
+		"width": 512.0
 	},
 	"console":
 	{
@@ -60,6 +80,7 @@
 	],
 	"file_history":
 	[
+		"/C/Users/cprobert/Documents/GitHub/cprobert.github.io/_posts/2015-01-28-stick-your-tory-bridy-up-your-arse.md",
 		"/C/Users/cprobert/Documents/GitHub/cprobert.github.io/_posts/2014-10-15-how-to-safely-upgrade-an-amazon-ec2-instance.md",
 		"/C/Users/cprobert/Documents/GitHub/cprobert.github.io/_posts/2014-05-29-open-letter-to-easyspace.md",
 		"/C/Users/cprobert/Documents/GitHub/cprobert.github.io/_includes/JB/analytics-providers/googleUA",
@@ -186,8 +207,7 @@
 		"/C/Users/Cookie/Dropbox/Code/qsonic.qsonic/htdocs/Bin/_PublishedWebsites/QSonic.Web.UI/Assets/Scripts/assessment.question.min.js",
 		"/C/Users/Cookie/Dropbox/Code/qsonic.qsonic/htdocs/Modules/Questions/TrueFalseQuestion.ascx.designer.cs",
 		"/C/Users/Cookie/Dropbox/Code/qsonic.qsonic/htdocs/Modules/Questions/MultiChoiceQuestion.ascx",
-		"/C/Users/Cookie/Dropbox/Code/qsonic.qsonic/htdocs/Modules/Assessment/Views/AssessmentQuestionAttempts.aspx",
-		"/C/Users/Cookie/Dropbox/Code/qsonic.qsonic/htdocs/Modules/Assessment/Reporting/Queries/PublishedQuestionFinder.cs"
+		"/C/Users/Cookie/Dropbox/Code/qsonic.qsonic/htdocs/Modules/Assessment/Views/AssessmentQuestionAttempts.aspx"
 	],
 	"find":
 	{
@@ -313,8 +333,65 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "_posts/2015-01-28-an-email-from-david-cameron.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3833,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								813,
+								813
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_posts/2014-05-27-the-needs-of-the-many.md",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 5226,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								144,
+								154
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -423,7 +500,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 268.0,
+	"side_bar_width": 321.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
