@@ -1,0 +1,25 @@
+{
+  "name": "cprobert.github.io",
+  "version": "1.0.0",
+  "description": "Courtenay P:robert's homepage",
+  "main": "gen.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cprobert/cprobert.github.io.git"
+  },
+  "author": "Courtenay Probert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cprobert/cprobert.github.io/issues"
+  },
+  "homepage": "https://github.com/cprobert/cprobert.github.io#readme",
+  "devDependencies": {
+    "kiss-ssg": "^0.9.1"
+  }
+}
