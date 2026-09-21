@@ -2,12 +2,14 @@
   "name": "cprobert.github.io",
   "version": "1.0.0",
   "description": "Courtenay P:robert's homepage",
-  "main": "gen.js",
+  "main": "router.js",
   "directories": {
     "doc": "docs"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "node router.js",
+    "check": "kiss-ssg check router.js",
+    "aikb": "kiss-ssg aikb router.js"
   },
   "repository": {
     "type": "git",
@@ -20,6 +22,7 @@
   },
   "homepage": "https://github.com/cprobert/cprobert.github.io#readme",
   "devDependencies": {
-    "kiss-ssg": "^0.9.1"
-  }
+    "kiss-ssg": "^2.5.0"
+  },
+  "type": "module"
 }
